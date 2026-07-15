@@ -60,5 +60,5 @@
 ## 📫 Contact
 
 - GitHub: [Leviziu256](https://github.com/Leviziu256)
-- LinkedIn: [add your LinkedIn link here](http://linkedin.com/in/levi-ziu-0293ba356 )
-- Email: leviziu@gmail.com
+- LinkedIn: [My LinkedIn link](http://linkedin.com/in/levi-ziu-0293ba356 )
+- Email:  [My Email](leviziu@gmail.com)
