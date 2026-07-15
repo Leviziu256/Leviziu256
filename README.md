@@ -1,0 +1,63 @@
+<h1 align="center">Hi, I'm Leviziu256 👋</h1>
+
+<p align="center">
+  Cybersecurity Student | Python Automation Builder | Local AI Explorer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Python+Automation+Builder;Network+and+System+Security+Learner;Local+AI+and+Tooling+Explorer" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Cyber and Computer Security student
+- 🔐 Interested in cybersecurity, network administration, and automation
+- 🧠 Building with Python, local AI tools, and workflow scripting
+- 🖥️ Comfortable with Windows, VS Code, GitHub, virtual machines, and command-line workflows
+- 📍 Based in Hong Kong
+- 🌱 Currently improving project quality, portfolio presentation, and practical security skills
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+- [Auto-clicker](https://github.com/Leviziu256/Auto-clicker) — Customizable mouse and function-key workflow automation
+- [Text--MP3_Local-AI](https://github.com/Leviziu256/Text--MP3_Local-AI) — Local AI text-to-MP3 project with expressive recitation
+- [We-don-t-hack-the-east](https://github.com/Leviziu256/We-don-t-hack-the-east) — Python project
+- [ELEC3810SEF_Assignment](https://github.com/Leviziu256/ELEC3810SEF_Assignment) — Coursework repository
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leviziu256&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviziu256&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: [Leviziu256](https://github.com/Leviziu256)
+- Add your LinkedIn here
+- Add your email here
