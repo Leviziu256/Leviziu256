@@ -53,11 +53,12 @@
 - [We-don-t-hack-the-east](https://github.com/Leviziu256/We-don-t-hack-the-east) — Python project
 - [ELEC3810SEF_Assignment](https://github.com/Leviziu256/ELEC3810SEF_Assignment) — Coursework repository
 
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -65,6 +66,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leviziu256/Leviziu256/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leviziu256/Leviziu256/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
 
 ## 📫 Contact
